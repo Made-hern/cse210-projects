@@ -1,5 +1,6 @@
 using System;
-
+// Creativity: I added a prompt generator that selects a random prompt
+// from a list to help the user reflect on different experiences each day.
 class Program
 {
     static void Main(string[] args)
