@@ -1,0 +1,2 @@
+100
+SimpleGoal|Read scriptures|read every day|100|True
